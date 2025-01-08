@@ -21,6 +21,25 @@ Backend: Express.js, Node.js
 Database: MongoDB
 Authentication: Firebase Authentication
 
+# Screenshots
+### Sign in
+![Admin Dashboard](./ss/SignIn.png)
+### Home Page 1
+![Admin Dashboard](./ss/Home%20Page%201.png)
+### Home Page 2
+![Admin Dashboard](./ss/Home%20Page%202.png)
+### Dashboard
+![Admin Dashboard](./ss/Dashboard.png)
+### Add book
+![Admin Dashboard](./ss/Upload%20book.png)
+### Edit book
+![Admin Dashboard](./ss/Update%20book%20details.png)
+### Database
+![Admin Dashboard](./ss/MongoDB.png)
+### Firebase user authenticaton
+![Admin Dashboard](./ss/Firebase%20User%20Authentication.png)
+
+
 # Install dependencies for both frontend and backend
 
 ## Install frontend dependencies
