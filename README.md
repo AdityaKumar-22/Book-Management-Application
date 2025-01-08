@@ -43,19 +43,27 @@ Authentication: Firebase Authentication
 # Install dependencies for both frontend and backend
 
 ## Install frontend dependencies
+```bash
 cd frontend
 npm install
+```
 
 ## Install backend dependencies
+```bash
 cd ../backend
 npm install
+```
 
 # Start the development servers
 
 ## Start backend server
+```bash
 cd backend
 npm start
+```
 
 ## Start frontend in a new terminal
+```bash
 cd frontend
 npm start
+```
